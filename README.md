@@ -1,6 +1,6 @@
 # super_pass_app
 
-A new Flutter project.
+super_pass 的客户端。当前是新建项目状态，踏入长征的第一步
 
 ## Getting Started
 
